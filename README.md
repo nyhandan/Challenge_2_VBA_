@@ -19,7 +19,7 @@ Here is the 2018 stock performance summary:
 
 ![2018 Stock Performance](https://github.com/nyhandan/Challenge_2_VBA_/blob/main/Challenge%202%20/Resources/Stock_Performance_2018.png)
 
-Clearly, the stocks in our analysis performed much better in 2017 than 2018. It is easy to notice considering the conditional formatting denotes positive returns with a green cell color and negative returns with a red cell color. The "run" button in these images are also super convenient for Steve because he can run the whole analysis at the click of a button. 
+Clearly, the stocks in our analysis performed much better in 2017 than 2018. It is easy to notice considering the conditional formatting denotes positive returns with a green cell color and negative returns with a red cell color. The "run" button in these images are also super convenient for Steve, because he can run the whole analysis for each year at the click of a button. 
 
 #### Refractored Code Efficiency 
 The refactored code ran much faster than the original code for both years. This is because I looped through all the data at once using extra "for" loops and "If..., Then..." statements. 
