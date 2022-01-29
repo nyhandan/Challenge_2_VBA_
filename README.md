@@ -9,6 +9,7 @@ The purpose of this analysis is to find out the returns of 12 stocks in 2017 and
 
 
 ## Results 
+
 ### Stock Performance
 Here is the 2017 stock performance summary:
 
@@ -40,6 +41,7 @@ This is how long it took the refactored code to run the 2018 data:
 
 
 ## Summary
+
 ### Advantages and Disadvantages to Refractoring Code
 A primary advantage to refractoring code is you can greatly improve the efficiency of code that is already there, so you don't have to repeat aspects of designing the code of your analysis. As in this project, [the refactored code I used](https://courses.bootcampspot.com/courses/1018/pages/2-dot-3-2-loop-over-all-tickers?module_item_id=395590) cut the time it took to run the analysis by 1/6th! 
 
